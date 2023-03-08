@@ -15,7 +15,7 @@
   - [분석/설계](#분석설계)
   - [구현:](#구현-)
     - [1. Saga (Pub-Sub)](#2.CQRS-:-명령과 쿼리 분리)
-    - [1. Saga (Pub-Sub)](#1.Saga-(Pub-Sub))
+    - [1. Saga (Pub-Sub)](#1Saga-(PubSub))
     - [폴리글랏 프로그래밍](#폴리글랏-프로그래밍)
     - [동기식 호출 과 Fallback 처리](#동기식-호출-과-Fallback-처리)
     - [비동기식 호출 과 Eventual Consistency](#비동기식-호출-과-Eventual-Consistency)
